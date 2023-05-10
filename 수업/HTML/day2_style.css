@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+div {
+    background-color: aqua;
+}
+/* 모든 요소 선택 */
+* {
+    font-weight: bold;
+    color: darkorange;
+}
+
+* {
+    color: plum;
+}
+
+/* 태그 선택자 */
+p {
+    color: olivedrab;
+}
+
+/* class 선택자 */
+/* 태그보다 우선순위 높음 */
+/* 페이지상의 여러 요소가 같은 class를 가질 수 있음 */
+.blue {
+    color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
